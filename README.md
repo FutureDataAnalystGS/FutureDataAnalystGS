@@ -3,7 +3,7 @@
 I’m passionate about data analysis and learning 🎓. My educational journey began with economics and spatial management, and I’m currently pursuing a PhD to further expand my expertise.
 
 Tools I use:
-🐍 Python
+<p> 🐍 Python </p>
 📊 Power BI
 🛢️ SQL
 🗺️ QGIS
