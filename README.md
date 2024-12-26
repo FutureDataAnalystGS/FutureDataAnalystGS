@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**FutureDataAnalystGS/FutureDataAnalystGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about data analysis and learning 🎓. My educational journey began with economics and spatial management, and I’m currently pursuing a PhD to further expand my expertise.
 
-Here are some ideas to get you started:
+Tools I use:
+🐍 Python
+📊 Power BI
+🛢️ SQL
+🗺️ QGIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+🏠 Real estate markets 
+🌆 Urban development 
+👥 Demographic changes 
+📚 Using analytical tools in scientific research 
+
+I love learning new things and broadening my horizons, especially in the field of data analysis. 🚀
